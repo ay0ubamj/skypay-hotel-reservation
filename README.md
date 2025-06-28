@@ -1,3 +1,6 @@
+## 🛠️ Technical Specifications
+- JDK Version: Java 17
+
 ## Screenshot of prints
 The screenshot of printAll(..) and printAllUsers(..) is in the resources folder.
 
